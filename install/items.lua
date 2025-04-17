@@ -130,7 +130,7 @@
 				pos = { x = -0.05, y = 0.0, z = 0.0 },
 				rot = { x = 0.0, y = 0.0, z = 0.0 }
 			},
-			usetime = 1000,
+			usetime = 14000,
 		}
 	},
 	["radahn_cigar_custom"] = {
